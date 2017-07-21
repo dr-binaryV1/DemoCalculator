@@ -1,0 +1,15 @@
+c:\users\ppt-dev-12\documents\visual studio 2017\Projects\DemoCalculator\DemoCalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\ppt-dev-12\documents\visual studio 2017\Projects\DemoCalculator\DemoCalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\ppt-dev-12\documents\visual studio 2017\Projects\DemoCalculator\DemoCalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\ppt-dev-12\documents\visual studio 2017\Projects\DemoCalculator\DemoCalculatorTest\bin\Debug\DemoCalculatorTest.dll
+c:\users\ppt-dev-12\documents\visual studio 2017\Projects\DemoCalculator\DemoCalculatorTest\bin\Debug\DemoCalculatorTest.pdb
+c:\users\ppt-dev-12\documents\visual studio 2017\Projects\DemoCalculator\DemoCalculatorTest\bin\Debug\DemoCalculator.exe
+c:\users\ppt-dev-12\documents\visual studio 2017\Projects\DemoCalculator\DemoCalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\ppt-dev-12\documents\visual studio 2017\Projects\DemoCalculator\DemoCalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\ppt-dev-12\documents\visual studio 2017\Projects\DemoCalculator\DemoCalculatorTest\bin\Debug\DemoCalculator.pdb
+c:\users\ppt-dev-12\documents\visual studio 2017\Projects\DemoCalculator\DemoCalculatorTest\bin\Debug\DemoCalculator.exe.config
+c:\users\ppt-dev-12\documents\visual studio 2017\Projects\DemoCalculator\DemoCalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\ppt-dev-12\documents\visual studio 2017\Projects\DemoCalculator\DemoCalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\ppt-dev-12\documents\visual studio 2017\Projects\DemoCalculator\DemoCalculatorTest\obj\Debug\DemoCalculatorTest.csprojResolveAssemblyReference.cache
+c:\users\ppt-dev-12\documents\visual studio 2017\Projects\DemoCalculator\DemoCalculatorTest\obj\Debug\DemoCalculatorTest.dll
+c:\users\ppt-dev-12\documents\visual studio 2017\Projects\DemoCalculator\DemoCalculatorTest\obj\Debug\DemoCalculatorTest.pdb

@@ -1,0 +1,6 @@
+c:\users\ppt-dev-12\documents\visual studio 2017\Projects\DemoCalculator\DemoCalculator\bin\Debug\DemoCalculator.exe.config
+c:\users\ppt-dev-12\documents\visual studio 2017\Projects\DemoCalculator\DemoCalculator\bin\Debug\DemoCalculator.exe
+c:\users\ppt-dev-12\documents\visual studio 2017\Projects\DemoCalculator\DemoCalculator\bin\Debug\DemoCalculator.pdb
+c:\users\ppt-dev-12\documents\visual studio 2017\Projects\DemoCalculator\DemoCalculator\obj\Debug\DemoCalculator.csprojResolveAssemblyReference.cache
+c:\users\ppt-dev-12\documents\visual studio 2017\Projects\DemoCalculator\DemoCalculator\obj\Debug\DemoCalculator.exe
+c:\users\ppt-dev-12\documents\visual studio 2017\Projects\DemoCalculator\DemoCalculator\obj\Debug\DemoCalculator.pdb
